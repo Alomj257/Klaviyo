@@ -1,6 +1,6 @@
 // easybill-multi-invoices.js
 import axios from "axios";
-const EASYBILL_API_TOKEN = "HotFFRXVEt3qvRp0mqK5rjyPI7SSzIrcZX3t6SRtCfyIRbFWFp9TsMnBnjOaszEW";
+const EASYBILL_API_TOKEN = "";
 
 // Example customer and multiple orders
 const customer = {

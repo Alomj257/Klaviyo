@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const KLAVIYO_API_KEY = "pk_bc5f852242cb4abaaea1293e456f385ec2";
+const KLAVIYO_API_KEY = "";
 
 /**
  * Send any event to Klaviyo

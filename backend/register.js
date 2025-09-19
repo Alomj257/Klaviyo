@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const KLAVIYO_API_KEY = "pk_3c22eaff4ac60b6196b7b9cc7608a35f83";
+const KLAVIYO_API_KEY = "";
 
 async function sendLoginEvent(user) {
   const payload = {

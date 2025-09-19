@@ -1,7 +1,7 @@
 import axios from "axios";
 import qs from "qs"; // for x-www-form-urlencoded
 
-const KLAVIYO_API_KEY = "pk_bc5f852242cb4abaaea1293e456f385ec2";
+const KLAVIYO_API_KEY = "";
 
 async function sendTemplateDirectly(email, templateId) {
   const payload = qs.stringify({

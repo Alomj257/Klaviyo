@@ -1,10 +1,10 @@
 import fetch from "node-fetch";
 
 // ======= Klaviyo API Keys =======
-const PUBLIC_API_KEY = "U3nma2"; // public key for sending metric
-const PRIVATE_API_KEY = "pk_acd02017da8f3b5a61f63bfe5494640b63"; // private key to fetch profile/events
+const PUBLIC_API_KEY = ""; // public key for sending metric
+const PRIVATE_API_KEY = ""; // private key to fetch profile/events
 
-// ======= Order / Customer Data =======U3nma2
+// ======= Order / Customer Data =======
 const orderData = {
   email: "cuuu@yopmail.com", // use a real email
   firstName: "John",

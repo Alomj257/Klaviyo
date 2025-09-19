@@ -7,8 +7,8 @@ app.use(cors());
 app.use(bodyParser.json());
 
 // 🔑 Replace with your real values
-const KLAVIYO_API_KEY = "pk_acd02017da8f3b5a61f63bfe5494640b63";  // Private API Key
-const LIST_ID = "YjqqZ5";                 // Klaviyo List ID
+const KLAVIYO_API_KEY = "";  // Private API Key
+const LIST_ID = "";                 // Klaviyo List ID
 
 // ✅ Subscription endpoint
 // app.post("/subscribe", async (req, res) => {

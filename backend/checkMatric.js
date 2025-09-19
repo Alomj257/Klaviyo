@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const KLAVIYO_API_KEY = "pk_acd02017da8f3b5a61f63bfe5494640b63";
+const KLAVIYO_API_KEY = "";
 
 async function getMetricId(metricName) {
   try {
